@@ -8,8 +8,8 @@ Firstly, the next indices were analyzed: Normalized Burned Ratio (NBR), Normaliz
 # What you can find in each folder
 
 • Data: This folder contains the data I used to calculate potential soil losses, including:
-      • Indices
-      • Sentinel-2 imagery
-      • Field data
+      Indices
+      Sentinel-2 imagery
+      Field data
 • Results: This folder contains the index selected to calculate the potential soil losses, of wildfire perimeter and the potential soil losses layers.
 • Final data: This document contains the results where the field points contain each calculated index.
