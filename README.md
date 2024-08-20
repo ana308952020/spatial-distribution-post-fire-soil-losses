@@ -13,3 +13,7 @@ Firstly, the next indices were analyzed: Normalized Burned Ratio (NBR), Normaliz
       Field data
 • Results: This folder contains the index selected to calculate the potential soil losses, of wildfire perimeter and the potential soil losses layers.
 • Final data: This document contains the results where the field points contain each calculated index.
+
+# Download:  
+
+Dataset can be download at https://1drv.ms/f/c/066fb5abf22cb08d/EnuYUhS9LI5Gtb8J6JPhrN4BGvFNNjdC0tOb1-8DmM0wLg?e=Hat6Ty 
