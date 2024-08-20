@@ -6,17 +6,17 @@ Sentinel-2 images were selected over the study areas on three different dates: p
 Firstly, the next indices were analyzed: Normalized Burned Ratio (NBR), Normalized Difference Infrared Index (NDII), the Normalized Wildfire Ash Index (NWAI), and Blue Normalized Vegetation Index (BNDVI). Then, Soil erosion (Mg ha-1 346) was calculated for each field sample point based on soil burn 347 severity, annual precipitation (mm), and the land use factor. Finally, the spatial distribution map of potential soil losses was generated selecting the high severity burned areas and establishing regression equations of BNDVI index and estimated soil losses in these areas.
 
 # What you can find in each folder
-
-# • Data: 
+- **Data**: 
 This folder contains the data I used to calculate potential soil losses, including:
-## Indices
-## Sentinel-2 imagery
-##  Field data
-# • Results: 
+  Indices
+  Sentinel-2 imagery
+  Field data
+- **Results**: 
 This folder contains the index selected to calculate the potential soil losses, of wildfire perimeter and the potential soil losses layers.
-# • Final data: 
+
+- **Final data**: 
 This document contains the results where the field points contain each calculated index.
 
 # Download:  
 
-Dataset can be download at https://1drv.ms/f/c/066fb5abf22cb08d/EnuYUhS9LI5Gtb8J6JPhrN4BGvFNNjdC0tOb1-8DmM0wLg?e=Hat6Ty 
+Dataset can be download at [Download] (https://1drv.ms/f/c/066fb5abf22cb08d/EnuYUhS9LI5Gtb8J6JPhrN4BGvFNNjdC0tOb1-8DmM0wLg?e=Hat6Ty) 
